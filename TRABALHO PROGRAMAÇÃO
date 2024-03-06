@@ -1,3 +1,8 @@
+PRINCIPAIS DIFERENÇAS ENTRE PYTOHN, JAVASCRIPT E RUBY: 
+PYTHON: É conhecido por sua grande e ampla biblioteca, mostrando ser mais fácil e tendo um suporte maior para ser usado e compreendido.
+JAVASCRIPT: De acordo com as pesquisas feitas, o JAVASCRIPT mostrou ser uma linguagem mais versátil e que pode ser usado em muitos navegadores.
+RUBY: Possui uma sintaxe expressiva e concisa, permitindo os desenvolvedores escrevam o código de maneira mas libertária, seguindo a vontade de quem está programando.
+
 PYTOHN
 print ('soma básica')
 num1 = float("4")
