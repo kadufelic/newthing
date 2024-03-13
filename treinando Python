@@ -5,3 +5,6 @@ elif idade >= 18 and idade < 60:
     print("você vai ter que trabalhar kkkkkkkkkk")
 else:
         print("pega a aposentadoria e vai viajar, vovo")
+
+LINK DA IMAGEM COMPROVANDO A FUNCIONALIDADE:
+https://github.com/kadufelic/newthing/blob/main/treinando%20Python.png
