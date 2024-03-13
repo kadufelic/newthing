@@ -1,0 +1,7 @@
+idade = 21
+if idade < 18:
+    print("você está na melhor fase da sua vida")
+elif idade >= 18 and idade < 60:
+    print("você vai ter que trabalhar kkkkkkkkkk")
+else:
+        print("pega a aposentadoria e vai viajar, vovo")
