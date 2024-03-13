@@ -20,5 +20,5 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 sorted_arr = bubble_sort(arr)
 print("Array ordenado:", sorted_arr)
 
-LINK DA IMAGEM: https://github.com/kadufelic/newthing/blob/main/ALGOR%C3%8DTIMOS%20EM%20PYTHON.png
+LINK DA IMAGEM:
 
